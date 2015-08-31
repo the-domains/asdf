@@ -5,8 +5,15 @@
         <description><![CDATA[asdf]]></description>
         <link>https://thegrid.ai/asdf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 31 Aug 2015 14:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2015 14:44:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asdf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leica Mmm]]></title>
+            <description><![CDATA[<article><h1>Leica Mmm</h1><img src="http://36.media.tumblr.com/ae86866e73a35c77ce3ad0c093bd037f/tumblr_ntcnnkrjZB1qew4muo1_1280.jpg"></article>]]></description>
+            <link>https://thegrid.ai/asdf/leica-mmm/index.html</link>
+            <guid isPermaLink="false">badea647-2be9-4468-aeb6-df969285cb4c</guid>
+            <pubDate>Mon, 31 Aug 2015 14:43:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Collection of Nice Things]]></title>
             <description><![CDATA[<article><h1>A Collection of Nice Things</h1><p>Thanks Dieter</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3448d066-4288-49b6-8a2a-4f18eade7135.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Barca a motore: Riva's Aquarama - News & Stories at STYLEPARK</h1><p>Barca a motore: Riva's Aquarama by Thomas Wagner | 26 August 2015 Diva named Riva: To this day, the "Aquarama" is considered the epitome of a Riva boat. Photo © Riva/Ferretti Group Design history has its own razzmatazz. The romantic story goes vaguely as follows: It's 1966.</p><img src="http://www.stylepark.com/db-images/cms/article/img/l2_v361943_958_992_661-1.jpg"></article>]]></description>
             <link>http://www.stylepark.com/en/news/barca-a-motorebr-rivas-aquarama/361943</link>
             <guid isPermaLink="false">a1623072-f763-4834-8ac1-e346dc3bf55e</guid>
-            <pubDate>Mon, 31 Aug 2015 14:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hayden Cox on The Great Discontent]]></title>
-            <description><![CDATA[<article><h1>Hayden Cox on The Great Discontent</h1><p>Hayden Cox is an Australian surfboard designer who got into the business of making surfboards at the age of 15 and continues to run his eponymous brand, Haydenshapes, today.</p><img src="https://coyote.imgix.net/184-hayden-cox/hayden-cox-toby-pete-hero.jpg?w=1200"></article>]]></description>
-            <link>https://thegreatdiscontent.com/interview/hayden-cox</link>
-            <guid isPermaLink="false">db66c1ff-7c5d-428f-a311-c52a31acf2fa</guid>
             <pubDate>Mon, 31 Aug 2015 14:43:02 GMT</pubDate>
         </item>
     </channel>
