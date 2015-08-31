@@ -5,8 +5,15 @@
         <description><![CDATA[asdf]]></description>
         <link>https://thegrid.ai/asdf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 31 Aug 2015 14:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2015 14:44:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asdf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Collection of Nice Things]]></title>
+            <description><![CDATA[<article><h1>A Collection of Nice Things</h1><p>Thanks Dieter</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3448d066-4288-49b6-8a2a-4f18eade7135.jpg"></article>]]></description>
+            <link>http://theworldsbest.com</link>
+            <guid isPermaLink="false">151c7247-f7e2-47aa-a34d-fa6fe7214345</guid>
+            <pubDate>Mon, 31 Aug 2015 14:43:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf8e772e-5fa2-45d2-91bf-474c9c2ef1b2.jpg">]]></description>
