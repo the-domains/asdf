@@ -1,7 +1,5 @@
-name: null
+name: asdf
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.5
 purposes:
   - awareness
 cta:
@@ -17,8 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#040001'
+    - '#3a2e32'
+    - '#e1d3c8'
+    - '#b16448'
+    - '#b73132'
+  brandStrength: 0.375
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
