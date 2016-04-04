@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[asdf]]></title>
         <description><![CDATA[asdf]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/asdf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 12:38:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 13:58:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/asdf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Neural Network for Hackers]]></title>
+            <description><![CDATA[<article><h1>Neural Network for Hackers</h1><p>Starting to understand Gradient Descent</p></article>]]></description>
+            <link>https://thegrid.ai/asdf/neural-network-for-hackers/index.html</link>
+            <guid isPermaLink="false">057cd855-a421-404d-91dc-b077c2a30d04</guid>
+            <pubDate>Mon, 04 Apr 2016 13:55:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[After Effects]]></title>
             <description><![CDATA[<h1>After Effects</h1>]]></description>
-            <link>undefinedafter-effects/index.html</link>
+            <link>https://thegrid.ai/asdf/after-effects/index.html</link>
             <guid isPermaLink="false">10ee9f4c-dfde-4f25-9a9e-265efc5eaa60</guid>
             <pubDate>Mon, 04 Apr 2016 12:38:11 GMT</pubDate>
         </item>
