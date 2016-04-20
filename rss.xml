@@ -4,7 +4,7 @@
         <description><![CDATA[WTF]]></description>
         <link>https://thegrid.ai/asdf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 05:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 17:50:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asdf/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wood&Faulk Journal]]></title>
@@ -12,13 +12,6 @@
             <link>http://woodandfaulk.com/page/4</link>
             <guid isPermaLink="false">ca266c4a-6034-47c0-b91e-e71adaaae66b</guid>
             <pubDate>Wed, 20 Apr 2016 05:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neural Network for Hackers]]></title>
-            <description><![CDATA[<article><h1>Neural Network for Hackers</h1><p>Starting to understand Gradient Descent</p></article>]]></description>
-            <link>https://thegrid.ai/asdf/neural-network-for-hackers/index.html</link>
-            <guid isPermaLink="false">057cd855-a421-404d-91dc-b077c2a30d04</guid>
-            <pubDate>Mon, 04 Apr 2016 13:55:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After Effects]]></title>
